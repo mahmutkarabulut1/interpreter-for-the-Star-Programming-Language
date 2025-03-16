@@ -1,0 +1,60 @@
+/* This test case includes taking input, 
+performing operations, 
+and performing operations with parentheses.*/
+
+/* Variable declarations and initial values */
+int base, height, area.
+
+newLine.
+
+/* Reading values from the user */
+read "Enter the base of the triangle: " base.
+read "Enter the height of the triangle: " height.
+
+newLine.
+
+/* Calculation operations with parentheses */
+area is (base * height) / 2.
+write "Triangle Area: " area.
+
+read "Enter for continue" base.
+
+int number.
+read "Enter a number?: " number.
+
+int squareRoot.
+
+int stepOne, stepTwo, stepThree, stepFour, stepFive.
+
+stepOne is 10.
+
+stepTwo is stepOne + (number / stepOne).
+stepTwo is stepTwo / 2.
+
+stepThree is stepTwo + (number / stepTwo).
+stepThree is stepThree / 2.
+
+stepFour is stepThree + (number / stepThree).
+stepFour is stepFour / 2.
+
+stepFive is stepFour + (number / stepFour).
+stepFive is stepFive / 2.
+
+
+
+write "Approximately the square root of this number: " stepFour.
+
+read "Enter for continue" number.
+
+
+int speed.
+read "What is your speed in kilometers per hour?: " speed.
+
+int newSpeed.
+
+newSpeed is (speed * 1000) / 3600.
+
+write "Meters traveled per second: " newSpeed.
+
+read "End of Code " speed.
+
